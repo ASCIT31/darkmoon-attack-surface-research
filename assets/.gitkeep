@@ -1,0 +1,2 @@
+Static media lives here. The demo GIF (darkmoon-infra-demo.gif) is dropped in by
+the build/release step and referenced from README.md and PAPER.md.
