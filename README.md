@@ -8,11 +8,12 @@
 
 ![Orbital attack-surface map](assets/darkmoon-infra-orbital.png)
 
-*(The capture above shows the current orbital map: assets on Internet, Edge,
-Application and Data rings, an evidence-backed attack path from the choke point
-to the critical asset, and the "attack surface mapped" briefing that opens the
-guided walkthrough. It is a screen capture of the running feature on a synthetic
-demo campaign.)*
+*(The capture above shows the current orbital map: assets on Internet / Edge,
+Application and Data rings, the assets that carry findings labelled with their
+counts, and the campaign's attack paths in the side rail, each labelled by
+provenance (here all six are inferred, not proven). It is a screen capture of the
+running feature on an anonymised real OWASP Juice Shop campaign (30 assets,
+57 findings) from demo.dark-moon.org.)*
 
 ---
 
