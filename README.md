@@ -6,11 +6,13 @@
 >
 > This repository contains **documentation only** — no product source code.
 
-![Guided attack-path demo](assets/darkmoon-infra-demo.gif)
+![Orbital attack-surface map](assets/darkmoon-infra-orbital.png)
 
-*(The GIF above shows the guided walkthrough: an "attack surface mapped" briefing,
-a MITRE ATT&CK attack-path narrative traced across the graph, and per-asset
-vulnerability drill-down. It is a screen capture of the running feature.)*
+*(The capture above shows the current orbital map: assets on Internet, Edge,
+Application and Data rings, an evidence-backed attack path from the choke point
+to the critical asset, and the "attack surface mapped" briefing that opens the
+guided walkthrough. It is a screen capture of the running feature on a synthetic
+demo campaign.)*
 
 ---
 
